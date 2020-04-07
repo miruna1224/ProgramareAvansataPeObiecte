@@ -1,0 +1,10 @@
+nume1 prenume1 15
+nume2 prenume2 18
+nume3 prenume3 12
+nume4 prenume4 23
+nume5 prenume5 17
+nume6 prenume6 19
+nume7 prenume7 4
+nume8 prenume8 22
+nume9 prenume9 10
+nume10 prenume10 29
