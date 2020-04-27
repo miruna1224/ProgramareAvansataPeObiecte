@@ -1,2 +1,2 @@
 
-	Prima a proiectului
+	Prima parte a proiectului
