@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4655ffa4-85c9-432f-b0cd-4e84a498e473" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/PaoEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/PaoEx2.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/PaoEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/PaoEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/PaoEx3.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/PaoEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/test1.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/com/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex1.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex2.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex3.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex4.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex5.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex6.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex7.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/laborator1/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator1/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator2/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/Laborator6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/clienti.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/date.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/out/production/Laborator6/META-INF/Laborator6.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/out/production/Laborator6/ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/out/production/Laborator6/ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/out/production/Laborator6/ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/out/production/Laborator6/invalidConditionData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/out/production/Laborator6/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/parole.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/src/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/src/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/src/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/src/invalidConditionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator6/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/Laborator8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/out/production/Laborator8/LambdaSyntax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/out/production/Laborator8/LmbdaFourthinterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/out/production/Laborator8/LmbdaInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/out/production/Laborator8/LmbdaSecondInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/out/production/Laborator8/LmbdaThirdInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/out/production/Laborator8/l8_ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/LambdaSyntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/LazyEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/LmbdaFourthinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/LmbdaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/LmbdaSecondInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/LmbdaThirdInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/LABS/Laborator8/src/l8_ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/PAO-master/JavaLab12/JavaSwing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/PAO-master/Lab11/Lab11_SimpleServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/PAO-master/Lab7Pao/Lab7Pao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/PAO-master/Lab8/Lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/PAO-master/Laborator9/Laborator9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/PAO-master/PaoExamen/PaoExamen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/tipDate.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/src/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/src/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/src/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/src/Subclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laborator/test_project/test_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mongo_java_driver_3_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mongoSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProiectPAO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProiectPAOV3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditcreate.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditdelete.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditdeleteFirst.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditfileWrite.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditfind.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditread.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditrecreateDB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditshowContact.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditshowMeeting.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditshowNote.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditshowRemainder.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditshowTodo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditshowTracker.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditupdate.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Database/CRUDNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Database/CRUDRemainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Database/CRUDToDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Database/CRUDTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/InexNoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/InexStException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exceptions/InvalidDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GUI/MyGUIForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/Footer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReadWrite/SingletonIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReadWrite/SingletonOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Audit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task/Tracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/createPageThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/noteCreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/noteDeleteFirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/noteDeleteThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/noteFindThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/noteReadThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/noteRecThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/noteUpdateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/remainderCreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/remainderDeleteFirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/remainderDeleteThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/remainderFindThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/remainderReadThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/remainderRecThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/remainderUpdateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/todoCreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/todoDeleteFirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/todoDeleteThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/todoFindThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/todoReadThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/todoRecThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/todoUpdateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/trackerCreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/trackerDeleteFirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/trackerDeleteThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/trackerFindThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/trackerReadThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/trackerRecThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Threads/trackerUpdateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/mongo-java-driver-3.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/AggregationFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/Create.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/MappingPOJO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mongodb/quickstart/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipDate.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/Robotica/Laboratories/RoboticsLaboratoryGit" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/Robotica/Laboratories/RoboticsLaboratoryGit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 1/Problema 1(v2)/Problema 1(v2)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 1/Problema 1(v2)/Problema 1(v2)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 1/Problema 2(v3)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 1/Problema 2(v3)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 2(TreeFromInPost)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 2(TreeFromInPost)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 2(v2)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 2(v2)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 3(MedianaVector)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 3(MedianaVector)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 4(DistMinPlan)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 4(DistMinPlan)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 4(Optim)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 2/Problema 4(Optim)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 1(DominoMax)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 1(DominoMax)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 2(DrumValMax)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 2(DrumValMax)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 2(v3)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 2(v3)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 4" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 5(Spectacole)" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem1/TehniciAvansateDeProgramare/Examen/TEME REZOLVATE_/Tema 3/Problema 5(Spectacole)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BazeDeDate/Laboratoare/2020/Rezolvari/ProblemePropuse9.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../BazeDeDate/Laboratoare/2020/Rezolvari/ProblemePropuse9.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InteligentaArtificiala/Laborator/2020/algoritmi/ProiectDame/algoritmi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InteligentaArtificiala/Laborator/2020/algoritmi/ProiectDame/construiescTabla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InteligentaArtificiala/Laborator/2020/algoritmi/ProiectDame/fisierCuMinMax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InteligentaArtificiala/Laborator/2020/algoritmi/ProiectDame/home.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InteligentaArtificiala/Laborator/2020/algoritmi/ProiectDame/mainDame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InteligentaArtificiala/Proiect/Proiect_Tapirdea_Alexandru_342.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pedagogie/FloroiuMiruna_235_problema10.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pedagogie/FloroiuMiruna_235_problema10.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/PaoEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/PaoEx2.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/PaoEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/PaoEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/PaoEx3.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/PaoEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/test1.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/com/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex1.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex2.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex3.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex4.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex5.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex6.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex7.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/ex7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/laborator1/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator1/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator2/ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/Laborator6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/clienti.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/date.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/out/production/Laborator6/META-INF/Laborator6.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/out/production/Laborator6/ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/out/production/Laborator6/ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/out/production/Laborator6/ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/out/production/Laborator6/invalidConditionData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/out/production/Laborator6/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/parole.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/src/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/src/ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/src/ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/src/invalidConditionData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator6/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/Laborator8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/out/production/Laborator8/LambdaSyntax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/out/production/Laborator8/LmbdaFourthinterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/out/production/Laborator8/LmbdaInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/out/production/Laborator8/LmbdaSecondInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/out/production/Laborator8/LmbdaThirdInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/out/production/Laborator8/l8_ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/LambdaSyntax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/LazyEvaluation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/LmbdaFourthinterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/LmbdaInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/LmbdaSecondInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/LmbdaThirdInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/StreamOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/Laborator8/src/l8_ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/auditfileWrite.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/auditfileWrite.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowMeeting.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowMeeting.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowNote.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowNote.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowRemainder.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowRemainder.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowTodo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowTodo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowTracker.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/auditshowTracker.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/date.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/date.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/out/production/ProiectPAO/META-INF/ProiectPAO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/out/production/ProiectPAO/ReadWrite/SingletonIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/out/production/ProiectPAO/ReadWrite/SingletonIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/ProiectV2/src/ReadWrite/SingletonIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator/ProiectV2/src/ReadWrite/SingletonIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator/desters.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1crs8eiuXYsrCld6qQ98nitMok4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/mongodb/mongo-java-driver-3.11.2.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CRUDRemainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.Database.CRUDRemainder" />
+      <module name="ProiectPAOV3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CRUDToDo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Database.CRUDToDo" />
+      <module name="ProiectPAOV3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CRUDToDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.Database.CRUDToDo" />
+      <module name="ProiectPAOV3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CRUDTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.Database.CRUDTracker" />
+      <module name="ProiectPAOV3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="ProiectPAOV3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CRUDToDo (1)" />
+        <item itemvalue="Application.CRUDTracker" />
+        <item itemvalue="Application.CRUDToDo" />
+        <item itemvalue="Application.CRUDRemainder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4655ffa4-85c9-432f-b0cd-4e84a498e473" name="Default Changelist" comment="" />
+      <created>1591297888450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591297888450</updated>
+      <workItem from="1591297895326" duration="42366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1591298103518">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1304.768@0.0.1304.768" timestamp="1591298103518" />
+    <state x="457" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1591315982785">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="457" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1591315982785" />
+    <state x="282" y="73" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591298429737">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="282" y="73" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1304.768@0.0.1304.768" timestamp="1591298429737" />
+    <state x="435" y="278" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591341832870">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="435" y="278" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1304.768@0.0.1304.768" timestamp="1591341832870" />
+    <state x="250" y="139" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1591298099006">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="250" y="139" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1304.768@0.0.1304.768" timestamp="1591298099006" />
+    <state x="226" y="125" key="FileChooserDialogImpl" timestamp="1591298650473">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="226" y="125" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1591298650473" />
+    <state width="1261" height="239" key="GridCell.Tab.0.bottom" timestamp="1591342071332">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1591342071332" />
+    <state width="1261" height="239" key="GridCell.Tab.0.center" timestamp="1591342071331">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1591342071331" />
+    <state width="1261" height="239" key="GridCell.Tab.0.left" timestamp="1591342071331">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1591342071331" />
+    <state width="1261" height="239" key="GridCell.Tab.0.right" timestamp="1591342071331">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1591342071331" />
+    <state width="1261" height="239" key="GridCell.Tab.1.bottom" timestamp="1591342071332">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1591342071332" />
+    <state width="1261" height="239" key="GridCell.Tab.1.center" timestamp="1591342071332">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1591342071332" />
+    <state width="1261" height="239" key="GridCell.Tab.1.left" timestamp="1591342071332">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1591342071332" />
+    <state width="1261" height="239" key="GridCell.Tab.1.right" timestamp="1591342071332">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1591342071332" />
+    <state x="132" y="0" key="SettingsEditor" timestamp="1591298657194">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="132" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1591298657194" />
+    <state x="356" y="276" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591298484869">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="356" y="276" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1304.768@0.0.1304.768" timestamp="1591298484869" />
+    <state x="308" y="172" key="run.anything.popup" timestamp="1591333603474">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="308" y="172" key="run.anything.popup/0.0.1304.768@0.0.1304.768" timestamp="1591333603474" />
+  </component>
+</project>
